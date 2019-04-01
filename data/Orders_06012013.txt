@@ -1,0 +1,5 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Wise,OH,6.25,Wood,100.00,5.15,4.75,515.00,475.00,61.88,1051.88
+4,Mark,Minnesota,0.00,Wood,1.00,0.00,10.00,0.00,10.00,0.00,10.00
+2,Mark,Minn,0.00,Wood,1.00,0.00,10.00,0.00,10.00,0.00,10.00
+3,,PA,6.75,Laminate,15.50,1.75,2.10,27.13,32.55,4.03,63.70

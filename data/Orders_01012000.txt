@@ -1,0 +1,10 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Name,State,0.00,Material,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+2,Name,State,0.00,Material,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+3,Name,State,0.00,Material,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+4,Name,State,0.00,Material,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+5,Name,State,0.00,Material,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+6,Name,State,0.00,Material,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+7,Name,State,0.00,Material,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+8,Name,State,0.00,Material,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+9,Name,State,0.00,Material,0.00,0.00,0.00,0.00,0.00,0.00,0.00
